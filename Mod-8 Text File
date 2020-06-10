@@ -1,0 +1,18 @@
+List of Errors on BooTheDog.html (Module-8)
+
+1. Line 19 - missing <h1> tags
+2. Lines 28-32 using <h4> tags instead of <p> tags
+3. Text box is missing <p> tags and is one big chunk. 
+4.</div> closing "<div class="row"> out of place. (Aesthetic?) 
+5. Missing "<>" around "img class"\
+6. Missing list tags
+7. The "textOrange"... were mixed up.
+
+I was having trouble with the Javascript for a while. There were some small errors like missed quotation marks and so forth.The biggest issue I had to figure out was to resave the .js file and link it to the .html so that it would run the corrected code. 
+
+I faced similar issues in Module-6, so hopefully I'll have time to go back to Mod-6 and fix those errors.
+
+This exercise really helped! 
+
+-Colin Whitcomb 
+
